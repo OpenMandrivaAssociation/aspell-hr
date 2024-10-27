@@ -8,8 +8,8 @@
 
 Summary:	%{languageenglazy} files for aspell
 Name:		aspell-%{languagecode}
-Version:	0.51.0
-Release:	23
+Version:	0.51_0
+Release:	1
 Group:		System/Internationalization
 Url:		https://aspell.net/
 License:	LGPLv2
